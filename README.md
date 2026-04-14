@@ -1,4 +1,4 @@
-# 🔍 AI Code Reviewer
+#  AI Code Reviewer
 
 An LLM-powered GitHub PR review agent built with LangChain, OpenAI, and Streamlit.
 
